@@ -2,12 +2,12 @@
 	"name": "themes-by-gungorn",
 	"displayName": "themes by gungorn",
 	"description": "Designed By gungorn",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"publisher": "gungorn",
 	"license": "MIT",
 	"icon": "view.png",
 	"repository": {
-		"url": "https://github.com/gungorn/themes_by_gungorn",
+		"url": " https://github.com/gungorn/vscode-themes",
 		"type": "git"
 	},
 	"engines": {
@@ -27,6 +27,11 @@
 				"label": "Green Motion",
 				"uiTheme": "vs-dark",
 				"path": "./themes/green-motion.json"
+			},
+			{
+				"label": "Flat Light",
+				"uiTheme": "vs",
+				"path": "./themes/flat-lite.json"
 			}
 		]
 	}
