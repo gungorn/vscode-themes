@@ -1,0 +1,33 @@
+{
+	"name": "themes-by-gungorn",
+	"displayName": "themes by gungorn",
+	"description": "Designed By gungorn",
+	"version": "1.0.2",
+	"publisher": "gungorn",
+	"license": "MIT",
+	"icon": "view.png",
+	"repository": {
+		"url": "https://github.com/gungorn/themes_by_gungorn",
+		"type": "git"
+	},
+	"engines": {
+		"vscode": "^1.27.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-orange.json"
+			},
+			{
+				"label": "Green Motion",
+				"uiTheme": "vs-dark",
+				"path": "./themes/green-motion.json"
+			}
+		]
+	}
+}
