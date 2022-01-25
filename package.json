@@ -2,7 +2,7 @@
 	"name": "themes-by-gungorn",
 	"displayName": "themes by gungorn",
 	"description": "Designed By gungorn",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"publisher": "gungorn",
 	"license": "MIT",
 	"icon": "view.png",
@@ -31,7 +31,7 @@
 			{
 				"label": "Flat Light",
 				"uiTheme": "vs",
-				"path": "./themes/flat-lite.json"
+				"path": "./themes/flat-light.json"
 			}
 		]
 	}
